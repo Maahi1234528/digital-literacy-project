@@ -1,4 +1,4 @@
-# digital-literacy-projectdigital-literacy-project
+# Digital-literacy-project
 
 ## Name :
 
